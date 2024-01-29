@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif?cid=790b76113aefb49d8e067a8b3961941513ab2c2685f60327&rid=giphy.gif&ct=s" width="100"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Ra02AqsQlC0KV229EvM98g.png" width="500"/>
 </div>
 
 <div id="badges" align="center">
@@ -16,12 +16,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :men_technologist: About Me :
-> I am currently a graduate of Texas Tech University<img src="https://www.kcbd.com/resizer/hfQIiAtbik8z9x4ik2rpw5dO0h0=/1400x0/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/MAVN3QCBVFFBBE7KYJAJL7EGX4.jpg" width="30"> residing in Texas, USA <br>
+### 👨‍💻 About Me :
+> I have graduated from Texas Tech University<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Texas_Tech_Athletics_logo.svg/800px-Texas_Tech_Athletics_logo.svg.png" width="15"> residing in Texas, USA <br>
 > I am actively applying for the roles of a ETL Developer/ Data Analyst/ Data Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
 > I have 2+ years of experience in Software Engineer <br>
-> To reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sri Ram-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/sri-ram-koppaku/)
-
 <hr></hr>
 
 ### :hammer_and_wrench: Languages and Tools :
